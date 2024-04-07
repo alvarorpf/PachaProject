@@ -11,5 +11,3 @@ Modelo de Simulación de Cambio Climático para La Paz - Bolivia
 - Cruz Edwin
 - Paredes Álvaro
 - Quispe Juan
- 
-**Materia:** Ingeniería de Sistemas II
